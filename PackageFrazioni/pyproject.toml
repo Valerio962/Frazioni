@@ -1,0 +1,22 @@
+[project]
+name = "PackageFrazioni"
+version = "0.0.1"
+authors = [
+  { name="Valerio", email="author@example.com" },
+]
+description = "Pacchetto che permette di eseguire operazioni tra frazioni"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+[project.scripts]
+calcola-frazione = "PackageFrazioni.Frazioni"
+
+[project.urls]
+Homepage = "https://github.com/pypa/sampleproject"
+Issues = "https://github.com/pypa/sampleproject/issues"

@@ -1,0 +1,7 @@
+Frazioni.py
+pyproject.toml
+PackageFrazioni.egg-info/PKG-INFO
+PackageFrazioni.egg-info/SOURCES.txt
+PackageFrazioni.egg-info/dependency_links.txt
+PackageFrazioni.egg-info/entry_points.txt
+PackageFrazioni.egg-info/top_level.txt
